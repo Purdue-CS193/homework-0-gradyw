@@ -1,4 +1,4 @@
-# Grady's First CS193 Homework
+# Grady Whelan's First CS193 Homework
 
 - I will learn useful tools that CS majors use at Purdue and in the industry.
 - I will get a chance to learn from students who have already gone through most of the CS program at Purdue.
