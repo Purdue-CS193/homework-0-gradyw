@@ -1,3 +1,9 @@
+# Grady's First CS193 Homework
+
+- I will learn useful tools that CS majors use at Purdue and in the industry.
+- I will get a chance to learn from students who have already gone through most of the CS program at Purdue.
+- I will learn more about what to expect in an interview and how to get there.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
